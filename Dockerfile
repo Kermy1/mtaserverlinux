@@ -6,6 +6,6 @@ RUN mkdir mtaserver
 WORKDIR /mtaserver
 COPY ./multitheftauto_linux_x64 /mtaserver
 
-RUN echo 'MTA server running'
-RUN /mtaserver/mta-server64
+RUN echo 'Starting MTA server'
+CMD /mtaserver/mta-server64
 

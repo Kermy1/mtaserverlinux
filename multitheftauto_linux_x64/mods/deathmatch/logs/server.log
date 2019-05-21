@@ -29,3 +29,120 @@
 [19-05-20 14:03:29] Server stopped!
 [19-05-20 14:03:29] Stopping resources......................
 [19-05-20 14:03:29] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.6 [64 bit]
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..o_linux_x64/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[19-05-21 10:09:38] Compacting accounts database 'internal.db' ...
+[19-05-21 10:09:38] Resource 'mapmanager' requests some acl rights. Use the command 'aclrequest list mapmanager'
+[19-05-21 10:09:38] Resources: 196 loaded, 0 failed
+[19-05-21 10:09:38] Compacting database 'registry.db' ...
+[19-05-21 10:09:38] Starting resources...
+[19-05-21 10:09:38] Server minclientversion is now 1.5.6-9.16588.0
+[19-05-21 10:09:38] INFO: MAPMANAGER: Some important ACL permissions are missing. To ensure the correct functioning of Mapmanager, please write: aclrequest allow mapmanager all
+[19-05-21 10:09:38] Gamemode 'play' started.
+[19-05-21 10:09:38] Querying MTA master server... success! (Auto detected IP:185.103.17.250)
+[19-05-21 10:09:38] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[19-05-21 10:09:38] WARNING: <owner_email_address> not set
+[19-05-21 10:09:38] Server started and is ready to accept connections!
+[19-05-21 10:09:38] To stop the server, type 'shutdown' or press Ctrl-C
+[19-05-21 10:09:38] Type 'help' for a list of commands.
+[19-05-21 10:09:59] HTTP: Failed login attempt for user 'admin' from 127.0.0.1
+[19-05-21 10:10:10] HTTP: Failed login attempt for user 'root' from 127.0.0.1
+[19-05-21 10:10:13] HTTP: Failed login attempt for user 'root' from 127.0.0.1
+[19-05-21 10:10:15] HTTP: Failed login attempt for user 'admin' from 127.0.0.1
+[19-05-21 10:10:17] HTTP: Failed login attempt for user 'admin' from 127.0.0.1
+[19-05-21 10:11:12] Available commands:
+
+start                    stop                     stopall                  
+restart                  refresh                  refreshall               
+list                     info                     upgrade                  
+check                    say                      teamsay                  
+msg                      me                       nick                     
+login                    logout                   chgmypass                
+addaccount               delaccount               chgpass                  
+shutdown                 aexec                    whois                    
+debugscript              help                     loadmodule               
+unloadmodule             reloadmodule             ver                      
+sver                     ase                      openports                
+debugdb                  reloadbans               aclrequest               
+authserial               reloadacl                debugjoinflood           
+debuguptime              sfakelag                 
+[19-05-21 10:11:22] addaccount: Syntax is 'addaccount <nick> <password>'
+[19-05-21 10:11:49] HTTP: Failed login attempt for user 'admin' from 127.0.0.1
+[19-05-21 10:12:17] Usage: aclrequest [list|allow|deny] <resource> [<right>|all]
+[19-05-21 10:12:33] Unknown resource 'user.admin'
+[19-05-21 10:12:42] Unknown resource ''
+[19-05-21 10:12:50] aclrequest: No change required
+Testing ports...
+Port 22126 UDP is closed. Players can not browse!
+Port 22003 UDP is closed. Players can not join!
+Port 22005 TCP is closed. Players can not download!
+[19-05-21 10:13:34] Server stopped!
+[19-05-21 10:13:34] Stopping resources......................
+[19-05-21 10:13:34] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.6 [64 bit]
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..o_linux_x64/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[19-05-21 10:13:50] Resource 'mapmanager' requests some acl rights. Use the command 'aclrequest list mapmanager'
+[19-05-21 10:13:50] Resources: 196 loaded, 0 failed
+[19-05-21 10:13:50] Starting resources...
+[19-05-21 10:13:50] Server minclientversion is now 1.5.6-9.16588.0
+[19-05-21 10:13:50] INFO: MAPMANAGER: Some important ACL permissions are missing. To ensure the correct functioning of Mapmanager, please write: aclrequest allow mapmanager all
+[19-05-21 10:13:50] Gamemode 'play' started.
+[19-05-21 10:13:50] Querying MTA master server... success! (Auto detected IP:185.103.17.250)
+[19-05-21 10:13:50] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[19-05-21 10:13:50] WARNING: <owner_email_address> not set
+[19-05-21 10:13:50] Server started and is ready to accept connections!
+[19-05-21 10:13:50] To stop the server, type 'shutdown' or press Ctrl-C
+[19-05-21 10:13:50] Type 'help' for a list of commands.
+[19-05-21 10:14:44] Server stopped!
+[19-05-21 10:14:44] Stopping resources......................
+[19-05-21 10:14:44] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.6 [64 bit]
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..o_linux_x64/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[19-05-21 10:52:50] Resource 'mapmanager' requests some acl rights. Use the command 'aclrequest list mapmanager'
+[19-05-21 10:52:50] Resources: 196 loaded, 0 failed
+[19-05-21 10:52:50] Starting resources...
+[19-05-21 10:52:50] Server minclientversion is now 1.5.6-9.16588.0
+[19-05-21 10:52:50] INFO: MAPMANAGER: Some important ACL permissions are missing. To ensure the correct functioning of Mapmanager, please write: aclrequest allow mapmanager all
+[19-05-21 10:52:50] Gamemode 'play' started.
+[19-05-21 10:52:50] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[19-05-21 10:52:50] WARNING: <owner_email_address> not set
+[19-05-21 10:52:50] Server started and is ready to accept connections!
+[19-05-21 10:52:50] To stop the server, type 'shutdown' or press Ctrl-C
+[19-05-21 10:52:50] Type 'help' for a list of commands.
+[19-05-21 10:52:50] Querying MTA master server... success! (Auto detected IP:185.103.17.250)
+[19-05-21 10:56:55] Server stopped!
+[19-05-21 10:56:55] Stopping resources......................
+[19-05-21 10:56:55] Closing SQLite3 database
